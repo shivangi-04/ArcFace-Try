@@ -13,5 +13,6 @@
     "num_workers": 0,
     "gradient_accumulation_step": 64,
     "sample_rate_for_partial_fc": 1.0,
-    "warmup_epochs": 0
+    "warmup_epochs": 0,
+    "log_interval": 25
 }
