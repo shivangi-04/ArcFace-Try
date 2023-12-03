@@ -1,0 +1,17 @@
+{
+    "dataset_dir": "C:\\Users\\Dell\\Documents\\cfp-dataset\\cfp-dataset\\Data\\Images",
+    "network": "r50",
+    "embedding_size": 512,
+    "momentum": 0.9,
+    "weight_decay": 5e-4,
+    "batch_size": 2,
+    "lr": 0.02,
+    "num_classes": 500,
+    "num_images": 7000,
+    "num_epochs": 25,
+    "fp16": false,
+    "num_workers": 0,
+    "gradient_accumulation_step": 64,
+    "sample_rate_for_partial_fc": 1.0,
+    "warmup_epochs": 0
+}
